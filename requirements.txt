@@ -24,7 +24,6 @@ cleo==0.8.1
 click==7.1.2
 clikit==0.6.2
 clint==0.5.1
-cloud-init==21.2
 colorama==0.4.3
 command-not-found==0.3
 ConfigArgParse==0.13.0
